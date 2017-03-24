@@ -1,6 +1,6 @@
 const commonConfig = require('./webpack.common.config'),
       path         = require('path'),
-      DIST         = '../distribution';
+      DIST         = '../public';
 
 module.exports = Object.assign(commonConfig,
     {

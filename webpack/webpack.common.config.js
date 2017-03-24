@@ -7,7 +7,7 @@ const
     CleanWebpackPlugin = require('clean-webpack-plugin'),
     // Path constants
     SOURCE       = '../source',
-    DIST         = '../distribution',
+    DIST         = '../public',
     NODE_MODULES = '../node_modules'; 
 
 module.exports = {
